@@ -1,0 +1,7 @@
+*~
+
+# CLion
+.clwb
+
+#Bazel
+bazel-*
